@@ -1,2 +1,3 @@
 # hammer
-a hammerJS
+
+my first js
