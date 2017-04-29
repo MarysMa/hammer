@@ -1,0 +1,22 @@
+{
+  "name": "hammer",
+  "version": "1.0.0",
+  "description": "hammerJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarysMa/hammer.git"
+  },
+  "keywords": [
+    "hammer"
+  ],
+  "author": "Marys",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarysMa/hammer/issues"
+  },
+  "homepage": "https://github.com/MarysMa/hammer#readme"
+}
